@@ -35,7 +35,7 @@ Aquí algunos de los proyectos en los que estoy trabajando o he trabajado:
 ## 📬 Contacto
 
 - **Correo**: SohanyGalan@gmail.com
-- **LinkedIn**: [LinkedIn](https://linkedin.com/in/sohany-galan)
+- **LinkedIn**: [LinkedIn]((https://www.linkedin.com/in/sohany-gal%C3%A1n-3a9131322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ))
 - **GitHub**: [GitHub](https://github.com/SohanyGalan)
 
 ---
