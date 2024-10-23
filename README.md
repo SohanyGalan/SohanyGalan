@@ -23,7 +23,7 @@ Mi enfoque está en aprender constantemente y superar nuevos desafíos que me ay
 
 - Me encanta descubrir nuevas tecnologías y ponerme a prueba en proyectos pequeños.
 - Me encanta maquillarme, arreglar mi cabello entre otras cosas.
-- y que tengo 17 años.
+  
 
 
 <!---
