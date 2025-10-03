@@ -32,7 +32,7 @@
 🌱 Curiosidades sobre mí:
 
 - Me encanta descubrir nuevas tecnologías y ponerme a prueba en proyectos pequeños.
-- Me encanta maquillarme, arreglar mi cabello entre otras cosas.
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
